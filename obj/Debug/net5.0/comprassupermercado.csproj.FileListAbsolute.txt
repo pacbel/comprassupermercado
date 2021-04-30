@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.exe
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.deps.json
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.runtimeconfig.json
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.dll
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\ref\comprassupermercado.dll
+F:\digitalInnovationOne\workspace\comprassupermercado\bin\Debug\net5.0\comprassupermercado.pdb
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.dll
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\ref\comprassupermercado.dll
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.pdb
+F:\digitalInnovationOne\workspace\comprassupermercado\obj\Debug\net5.0\comprassupermercado.genruntimeconfig.cache
